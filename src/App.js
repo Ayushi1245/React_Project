@@ -7,7 +7,8 @@ function App()
     return (
         <div>
             <nav className="navbar navbar-expand navbar-light bg-light">
-                <ul className="nav navbar-nav">
+                <ul 
+                className="nav navbar-nav">
                     <li className="nav-item">
                         <NavLink className="nav-link" to="/">Jsx</NavLink>
                     </li>
